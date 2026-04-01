@@ -1,9 +1,9 @@
-# AI Code Review Dataset
+## Project Goal
+This project demonstrates code review and annotation skills by analyzing AI-generated code.
 
-This repository contains examples of AI-generated code reviewed and corrected.
-
-Skills demonstrated:
+## Skills
 - Code Review
 - Debugging
 - Python
-- Annotation
+- Problem Solving
+- Software Engineering Best Practices
